@@ -22,12 +22,11 @@ Training a text classification model:
 
 I have build at three ML models and analyse the performance of each of these models and choose the best model.
 
-Logistic regression
-Random forest
+Logistic regression,
+Random forest,
 XGBoost
-Out of these three models, 
 
-I select logistic classification model based on its performance.
+Out of these three models,I select logistic classification model based on its performance.
 
 Building a recommendation system There are following types of recommendation systems.
 
