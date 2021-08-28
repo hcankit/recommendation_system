@@ -8,7 +8,7 @@ Building a recommendation system
 Improving the recommendations using the sentiment analysis model
 Data sourcing and sentiment analysis In this task, I have to analyse product reviews after some text preprocessing steps and build an ML model to get the sentiments corresponding to the users' reviews and ratings for multiple products. The dataset is inspired by Kaggle competition (https://www.kaggle.com/datafiniti/grammar-and-online-product-reviews). The dataset consists of 30,000 reviews for more than 200 different products. The reviews and ratings are given by more than 20,000 users.
 
-The steps to be performed for the first task are given below :
+The steps to be performed are given below :
 
 Exploratory data analysis
 Data cleaning
