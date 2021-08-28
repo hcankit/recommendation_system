@@ -11,9 +11,13 @@ Data sourcing and sentiment analysis In this task, I have to analyse product rev
 The steps to be performed are given below :
 
 Exploratory data analysis
+
 Data cleaning
+
 Text preprocessing
+
 Feature extraction: In order to extract features from the text data,I choose TF-IDF vectorization.One can use bag-of-words, or word embedding also.
+
 Training a text classification model: I have build at three ML models and analyse the performance of each of these models and choose the best model.
 Logistic regression
 Random forest
